@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/tools">
+    <!--<color name="mycolor">#df1944</color>-->
+    <color name="font">#fdfefe</color>
+    <color name="colorAccent">#fdfefe</color>
+
+</resources>
